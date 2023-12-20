@@ -1,2 +1,4 @@
 # Notas
-Este es un repositorio de pruebas
+Este es el repositorio inicial de mi proyecto
+## Desde VSCode
+Esto fue añadido mediante VSCode
